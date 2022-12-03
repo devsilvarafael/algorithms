@@ -17,4 +17,4 @@ var isValid = function(s) {
     return leftSymbols.length === 0;
 }
 
-console.log(isValid('(){}[]'))
+isValid('(){}[]');
